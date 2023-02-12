@@ -1,0 +1,113 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    line-height: 0.5;
+    background: linear-gradient(to left,#b646b0,#00d9ff);
+}
+
+.calci{
+    width: 500px;
+    padding-top: 100px ;
+    padding-bottom: 90px;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    transition: 0.25px;
+    text-align: center;
+
+}
+
+#display{
+border: none;
+background: white;
+border-radius: 30px;
+width: 245;
+font-size: 20;
+font-family: sans-serif;
+font-weight: 300;
+height: 60;
+margin: auto;
+border: 2px solid white;
+color: black;
+
+}
+
+.btnDesign{
+    width: 55;
+    height: 55;
+    background: white;
+    padding-top:-1;
+    border: none;
+    font-family: sans-serif;
+    font-size: 20;
+    font-weight: 300;
+    border-radius: 30px;
+    margin: 1.5;
+}
+
+.btnDesign:hover{
+   width: 55;
+   height: 55;
+   background: rgb(222, 197, 226);
+   padding-top:-1;
+   border: none;
+   font-family: sans-serif;
+   font-size: 20;
+   font-weight: 300;
+   border-radius: 30px;
+   margin: 1.5;
+}
+     .operatorDesign{
+        width: 55;
+        height: 55;
+        background: white;
+        padding-top:-1;
+        border: none;
+        font-family: sans-serif;
+        font-size: 20;
+        font-weight: 300;
+        border-radius: 30px;
+        margin: 1.5;
+        transition: 0.25px;
+     
+
+     }
+
+     .operatorDesign:hover{
+        background: #00d9ff;
+     }
+
+     #zero{
+        width: 116;
+        height: 55;
+        background: white;
+        padding-top:-1;
+        border: none;
+        font-family: sans-serif;
+        font-size: 20;
+        font-weight: 300;
+        border-radius: 30px;
+        margin: 1.5;
+        transition: 0.25px;
+        cursor: pointer;
+
+     }
+
+     h1{
+        color: antiquewhite;
+        font-family: 'Maven Pro', sans-serif;
+        text-align: center;
+        padding-top: 50px;
+        font-size: 50px;
+                                                
+     }
+     h2{
+        color: antiquewhite;
+        font-family: 'Maven Pro', sans-serif;
+        text-align: center;
+        padding-top: 20px;
+        font-size: 20px;
+     }
+     
