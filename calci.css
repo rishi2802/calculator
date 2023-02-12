@@ -94,6 +94,9 @@ color: black;
         cursor: pointer;
 
      }
+     #zero:hover{
+      background: rgb(222, 197, 226);
+     }
 
      h1{
         color: antiquewhite;
