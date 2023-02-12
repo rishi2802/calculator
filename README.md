@@ -1,5 +1,5 @@
 # Info:
-This webpage is a fully funtional online calculator to perform basic arthematic operations like addition, subraction, multiplication and division.
+This webpage is a fully functional online calculator to perform basic arithmetic operations like addition, subtraction, multiplication and division.
 The Operator keys change color to blue(#00d9ff) on hover where as all other keys turn to rgb(222, 197, 226) on hover.
 
 # Screenshots of The Webpage:
