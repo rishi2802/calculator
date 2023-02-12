@@ -1,6 +1,6 @@
 # Info:
 This webpage is a fully funtional online calculator to perform basic arthematic operations like addition, subraction, multiplication and division.
-The Operator keys i.e change color to blue(#00d9ff) on hover where as all other keys turn to rgb(222, 197, 226) on hover.
+The Operator keys change color to blue(#00d9ff) on hover where as all other keys turn to rgb(222, 197, 226) on hover.
 
 # Screenshots of The Webpage:
 ![image](https://user-images.githubusercontent.com/110948224/218311928-7c6e2cb5-3da6-4df2-b055-d72c9b87be6c.png)
